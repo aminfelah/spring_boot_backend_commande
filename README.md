@@ -27,3 +27,4 @@ C.FinishedAT < dateX
 WHERE C.id == CRR.id_commande
 CRR.nbr_text>6
 ``` 
+
